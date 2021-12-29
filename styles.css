@@ -122,7 +122,6 @@ h1:hover, .name:hover{
   }
 }
 
-
 .eth{
   color: #00fff7;
   margin-left: -5rem;
@@ -149,7 +148,8 @@ hr{
 .card-footer{
   display: flex;
   align-items: center;
-  margin: 1rem auto auto 1.7rem;
+  margin-top: 1rem;
+  margin-left: 0.7rem;
   width: 90%;
 }
 
